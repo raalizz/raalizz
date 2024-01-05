@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Raghda!
-- ✈️ From Michigan/USA, currently living in Hamburg/Germany! 
+- ✈️ From Michigan/USA, currently living in Hamburg/Germany!
+- 🍀 stack: HTML, CSS, JavaScript, Reactjs
 - 👀 I’m interested in all things tech, travelling, and books! 
 - 💞️ I’m looking to collaborate on fun, challenging, and interesting projects that strengthen my current skills and add more skills and tricks to my coding arsenal.
 - 📫 You can reach me on LinkedIn : https://www.linkedin.com/in/raghdaalizz or email me at : raalizz.h@gmail.com 
